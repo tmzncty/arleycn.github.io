@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: '/banner.jpg'
+bgImage: '/banner.png'
 bgImageStyle: {
   z-index: 1,
   height: 600px,
